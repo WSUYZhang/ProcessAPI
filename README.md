@@ -9,22 +9,22 @@ prompt> make
 
 See the highly primitive `Makefile` for details.
 
-Then run `p1`, `p2`, `p3`, or `p4`, as need be. Examples:
+Then run `p1.out`, `p2.out`, `p3.out`, or `p4.out`, as need be. Examples:
 
 ```
-prompt> ./p1
-```
-
-```
-prompt> ./p2
+prompt> ./p1.out
 ```
 
 ```
-prompt> ./p3
+prompt> ./p2.out
 ```
 
 ```
-prompt> ./p4
+prompt> ./p3.out
+```
+
+```
+prompt> ./p4.out
 ```
 
 
